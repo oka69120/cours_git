@@ -1,0 +1,14 @@
+commande;num_reglib_cde;reglement;prenom;nom;age;genre;Pays
+cde0123;REG45455:commande processeur 64 coeurs;paiement complet;Christophe;DUPONT;45;M;FR
+cde1456;REG45456:commande clavier;paiement complet;Lucie;NELSON;56;F;US
+cde1486;REG45257:commande processeur 256 coeurs;paiement complet;Marouane;BOUGHERA;23;M;FR
+cde1999;REG45458:commande souris;paiement complet;Lucie;NELSON;56;F;US
+cde2123;REG45459:commande ram 64GO;paiement complet;Joseph;JACKSON;75;M;UK
+cde5689;REG45460:commande carte vidéo 16G;paiement complet;Joseph;JACKSON;75;M;UK
+cde5897;REG45461:commande carte vidéo 64G;paiement complet;Keyko;KUBOYAMA;23;F;JP
+cde7895;REG45462:commande processeur 128 coeurs;paiement complet;Jean;TARDIF;37;M;FR
+cde8526;REG45463:commande carte son;paiement complet;Jean;TARDIF;37;M;FR
+cde8528;REG45464:commande carte son;paiement partiel 50 %;Simone;DUPONT;10;F;FR
+cde8529;REG45465:commande carte vidéo 64G;paiement partiel 80 %;Clark;MENDY;50;M;US
+cde8530;REG45466:commande processeur 128 coeurs;paiement partiel 30 %;Jeanne;MARCHAND;10;F;FR
+cde8640;REG45468:commande ram 128GO;paiement complet;Manilla;NORREDINE;19;F;FR
